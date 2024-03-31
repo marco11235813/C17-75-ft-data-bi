@@ -119,4 +119,61 @@ Proyecto de Educación: Análisis de Rendimiento Académico
         </div>
       </div>
     </td>
+
+  
+<tr>
+<td align='center'>
+      <div >
+        <a href="https://github.com/KATHIUSKA06" target="_blank" rel="author">
+          <img width="110" src="https://avatars.githubusercontent.com/u/116043458?v=4"/>
+        </a>
+        <a href="https://github.com/KATHIUSKA06" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Kathiuska Mangones Ramos</br><small> </small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/KATHIUSKA06" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/kathiuska-mangones-ramos-1b494913b/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+<td align='center'>
+      <div >
+        <a href="https://github.com/Alejandro-Toloza" target="_blank" rel="author">
+          <img width="110" src="https://avatars.githubusercontent.com/u/109776481?v=4"/>
+        </a>
+        <a href="https://github.com/Alejandro-Toloza" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Alejandro Tolosa</br><small></small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/Alejandro-Toloza" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+
+  <td align='center'>
+      <div >
+        <a href="https://github.com/Fsando1993" target="_blank" rel="author">
+          <img width="110" src="https://avatars.githubusercontent.com/u/137431648?v=4"/>
+        </a>
+        <a href="https://github.com/Fsando1993" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Florencia Sando</br><small></small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/Fsando1993" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
   
