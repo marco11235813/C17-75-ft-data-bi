@@ -143,7 +143,7 @@ Proyecto de Educación: Análisis de Rendimiento Académico
 <td align='center'>
       <div >
         <a href="https://github.com/Alejandro-Toloza" target="_blank" rel="author">
-          <img width="110" src="https://avatars.githubusercontent.com/u/109776481?v=4"/>
+          <img width="110" src="https://media.licdn.com/dms/image/D4D03AQFxyjOU8KgPSQ/profile-displayphoto-shrink_400_400/0/1673034141381?e=1717632000&v=beta&t=8Xglk3alIQbVGGWaldGN3g1xoaZoGys-mksGC_pCR3k"/>
         </a>
         <a href="https://github.com/Alejandro-Toloza" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Alejandro Tolosa</br><small></small></h4>
@@ -152,7 +152,7 @@ Proyecto de Educación: Análisis de Rendimiento Académico
         <a href="https://github.com/Alejandro-Toloza" target="_blank">
           <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.linkedin.com/in/alejandro-toloza-69b6971b0/" target="_blank">
           <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         </div>
