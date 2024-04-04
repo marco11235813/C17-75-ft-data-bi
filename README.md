@@ -145,8 +145,5 @@ Utilizando técnicas de análisis de datos y aprendizaje automático, este proye
     </td>
 
 
-## Tecnologías 
-
-
 
   
