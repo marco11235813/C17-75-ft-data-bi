@@ -15,7 +15,9 @@ Utilizando técnicas de análisis de datos y aprendizaje automático, este proye
   <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/images.png" width="100%" alt="platform">
 </p>
 
-Este
+El Instituto Colombiano para la Evaluación de la Educación (ICFES) es una entidad especializada en ofrecer servicios de evaluación de la educación en todos sus niveles, y en particular apoya al Ministerio de Educación Nacional en la realización de los exámenes de Estado y en adelantar investigaciones sobre los factores que inciden en la calidad educativa, para ofrecer información pertinente y oportuna para contribuir al mejoramiento de la calidad de la educación.
+
+El ICFES tiene como objeto ofrecer el servicio de evaluación de la educación en todos sus niveles y adelantar investigación sobre los factores que inciden en la calidad educativa, con la finalidad de ofrecer información para mejorar la calidad de la educación. De la misma manera el ICFES podrá realizar otras evaluaciones que le sean encargadas por entidades públicas o privadas y derivar de ellas ingresos, conforme a lo establecido en la Ley 635 de 2000.
 
 
 ## Nosotros
