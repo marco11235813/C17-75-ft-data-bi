@@ -9,7 +9,7 @@
 El proyecto de Análisis de Rendimiento Académico tiene como objetivo proporcionar a las instituciones educativas herramientas para analizar y mejorar el rendimiento académico de los estudiantes. 
 Utilizando técnicas de análisis de datos y aprendizaje automático, este proyecto permite a las instituciones identificar patrones, tendencias y áreas de mejora en el desempeño estudiantil.
 
-# Nosotros
+## Nosotros
 
 <table align='center'>
   <tr>
