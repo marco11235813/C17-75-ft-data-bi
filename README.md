@@ -19,6 +19,23 @@ El Instituto Colombiano para la Evaluación de la Educación (ICFES) es una enti
 
 El ICFES tiene como objeto ofrecer el servicio de evaluación de la educación en todos sus niveles y adelantar investigación sobre los factores que inciden en la calidad educativa, con la finalidad de ofrecer información para mejorar la calidad de la educación. De la misma manera el ICFES podrá realizar otras evaluaciones que le sean encargadas por entidades públicas o privadas y derivar de ellas ingresos, conforme a lo establecido en la Ley 635 de 2000.
 
+El ICFES ofrece actividades para la evaluación de la educación en todos sus niveles y apoya al Ministerio de Educación en la realización de los exámenes de Estado. Además, realiza investigaciones sobre los factores que inciden en la calidad educativa, con la finalidad de ofrecer información para mejorarla.
+De la misma manera el ICFES podrá realizar otras evaluaciones que le sean encargadas por entidades públicas o privadas y derivar de ellas ingresos, conforme a lo establecido en la Ley 635 de 2000.
+
+El ICFES también es el encargado de realizar:
+
+* Informe PISA: En esta prueba se miden las habilidades de estudiantes de 15 años para resolver problemas cotidianos. Los resultados del Informe PISA ayudan a identificar las brechas entre los diferentes sistemas educativos. En esta prueba Colombia compite con alrededor de 80 países y economías del mundo.15​
+* Proyecto PISA para establecimientos educativos: Conocida también como PISA for schools, en esta prueba los colegios participantes reciben resultados en la escala PISA.
+Estudio Regional Comparativo y Explicativo de la Unesco (Erce): Esta prueba, en la que Colombia compite con 17 países de América Latina, evalúa las competencias en Lenguaje, Matemáticas y Ciencias en el ciclo de educación básica (primaria y secundaria).16​
+* Encuesta Internacional sobre Docencia y Aprendizaje (TALIS): Esta prueba, en la que Colombia compite con 45 países del mundo, permite conocer aspectos fundamentales de la práctica educativa del país desde la perspectiva de los profesores y rectores.17​
+* Estudio Talis basado en vídeo: Esta prueba permite obtener información sobre metodologías y prácticas de enseñanza de los docentes de secundaria en Matemáticas, con el fin de comprender qué tan eficientes son dentro del salón. Colombia, además, hace parte de la primera versión de esta prueba junto a Japón, Chile, México, España, China, Estados Unidos, * Alemania e Inglaterra.15​
+* Estudio Internacional de Educación Cívica y Ciudadana (ICCS): Proyecto de la Asociación Internacional para la Evaluación del logro Académico (IEA), cuyo objetivo es investigar las diferentes formas en las cuales los jóvenes están preparados para asumir sus roles como ciudadanos. Reporta el conocimiento y entendimiento de conceptos y tópicos relacionados con la formación cívica y ciudadana, así como valores, actitudes y comportamiento.
+* Estudio Internacional de Tendencias en Matemáticas y Ciencias (TIMSS): Esta prueba evalúa a estudiantes de cuarto y octavo grados y tiene como propósito proveer información para mejorar los procesos de enseñanza y aprendizaje de las matemáticas y las ciencias, fundamentales para desarrollar competencias relacionadas con la solución de problemas y el razonamiento riguroso y crítico.
+* Estudio del Progreso Internacional en competencia Lectora (PIRLS): Es una evaluación a la comprensión lectora, la cual ha monitoreado tendencias en el rendimiento de los estudiantes en un intervalo de cinco años en países alrededor del mundo, desde 2001. La población objetivo está representada por estudiantes matriculados que tienen en promedio cuatro años de escolaridad.
+
+## Objetivo
+
+Es la encargada de realizar el reconocido examen Saber 11º, que permite el acceso de los estudiantes que se encuentran en su último año de bachillerato a la educación superior.
 
 ## Nosotros
 
