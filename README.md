@@ -42,6 +42,12 @@ Entre muchas otros examenes nacionales e internacionales en los que participa Co
 
 Es nuestro objetivo centrarnos en los resultados y datos concernientes a las Pruebas Saber 11°.
 
+## Tecnologias
+
+## Desarrollo
+
+## Datos
+
 ## Nosotros
 
 <table align='center'>
