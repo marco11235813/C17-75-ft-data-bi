@@ -1,7 +1,9 @@
 # C17-75-ft-data-bi
-Proyecto de Educación: Análisis de Rendimiento Académico
+## Proyecto de Educación: Análisis de Rendimiento Académico
 
-
+## Descripción
+El proyecto de Análisis de Rendimiento Académico tiene como objetivo proporcionar a las instituciones educativas herramientas para analizar y mejorar el rendimiento académico de los estudiantes. 
+Utilizando técnicas de análisis de datos y aprendizaje automático, este proyecto permite a las instituciones identificar patrones, tendencias y áreas de mejora en el desempeño estudiantil.
 
 # Nosotros
 
@@ -136,9 +138,21 @@ Proyecto de Educación: Análisis de Rendimiento Académico
           <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
         <a href="https://www.linkedin.com/in/anaflorenciasandoval/" target="_blank">
+    
           <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         </div>
       </div>
     </td>
+
+
+## Tecnologías 
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Flask
+
+
   
