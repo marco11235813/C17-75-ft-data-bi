@@ -147,12 +147,7 @@ Utilizando técnicas de análisis de datos y aprendizaje automático, este proye
 
 
 ## Tecnologías 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Flask
+
 
 
   
