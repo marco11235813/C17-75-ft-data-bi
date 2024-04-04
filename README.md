@@ -1,5 +1,9 @@
-# C17-75-ft-data-bi
-## Proyecto de Educación: Análisis de Rendimiento Académico
+<p align="center">
+  <img src="https://github.com/marco11235813/marco11235813/blob/main/1640803643518.png" width="100%" alt="platform">
+</p>
+
+<h1 align="center">C17-75-ft-data-bi </h1>
+<h3 align="center"> Proyecto de Educación: Análisis de Rendimiento Académico </h3>
 
 ## Descripción
 El proyecto de Análisis de Rendimiento Académico tiene como objetivo proporcionar a las instituciones educativas herramientas para analizar y mejorar el rendimiento académico de los estudiantes. 
