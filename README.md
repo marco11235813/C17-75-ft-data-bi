@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/marco11235813/marco11235813/blob/main/1640803643518.png" width="100%" alt="platform">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/banner%20nocountry.jpg" width="100%" alt="platform">
 </p>
 
 <h1 align="center">C17-75-ft-data-bi </h1>
@@ -8,6 +8,15 @@
 ## Descripción
 El proyecto de Análisis de Rendimiento Académico tiene como objetivo proporcionar a las instituciones educativas herramientas para analizar y mejorar el rendimiento académico de los estudiantes. 
 Utilizando técnicas de análisis de datos y aprendizaje automático, este proyecto permite a las instituciones identificar patrones, tendencias y áreas de mejora en el desempeño estudiantil.
+
+## Introduccion
+
+<p align="center">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/images.png" width="100%" alt="platform">
+</p>
+
+Este
+
 
 ## Nosotros
 
