@@ -87,24 +87,6 @@ Es nuestro objetivo centrarnos en los resultados y datos concernientes a las Pru
     </td>
     <td align='center'>
       <div >
-        <a href="https://github.com/DSuarezPaez" target="_blank" rel="author">
-          <img width="110" src="https://media.licdn.com/dms/image/D4E35AQHyNIpdDXjEyw/profile-framedphoto-shrink_800_800/0/1686244750741?e=1712516400&v=beta&t=gS-8LEOn6X0N0MowthgN792uSw6Z03A2UQ2-f9WEAU4"/>
-        </a>
-        <a href="https://github.com/DSuarezPaez" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Daniel Suarez</br><small></small></h4>
-        </a>
-        <div style='display: flex; flex-direction: column'>
-        <a href="https://github.com/DSuarezPaez" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
-        </a>
-        <a href="https://www.linkedin.com/in/daniel-suarez-paez/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        </div>
-      </div>
-    </td>
-    <td align='center'>
-      <div >
         <a href="https://github.com/Osw16" target="_blank" rel="author">
           <img width="110" src="https://media.licdn.com/dms/image/C4E03AQFUUD_lVOmjRg/profile-displayphoto-shrink_400_400/0/1531147758357?e=1717632000&v=beta&t=R2_QuVPR2som_7ZnQbDa_nwABSiCsQTwIBwSIPsZ7qU"/>
         </a>
