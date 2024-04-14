@@ -39,8 +39,9 @@ Las Pruebas Saber Pro (antes conocidas como Examen de calidad para la Educación
 Entre muchas otros examenes nacionales e internacionales en los que participa Colombia en conjunto con otros paises (Informe PISA, Encuesta Internacional sobre Docencia y Aprendizaje (TALIS), Estudio Internacional de Tendencias en Matemáticas y Ciencias (TIMSS), etc)
 
 ## Objetivo
-
-Es nuestro objetivo centrarnos en los resultados y datos concernientes a las Pruebas Saber 11°.
+Como objetivo principal, apuntamos a realizar un estudio profundo que permita vislumbrar cuales son los aspectos fundamentales que inciden en el desempeño de los estudiantes a nivel academico,
+tomando como fuente de datos los resultados y datos concernientes a las Pruebas Saber 11°, mediante análisis de los datos, informes y Dashboards concernientes al analisis historico de los datos, se reconoceran patrones, tendencias, y variables relevantes como resultado.
+Esto conformará parte de la informacion necesaria para la toma de decisiones por parte de nuestro cliente, a la que se añadirá la construccion de modelos predictivos correspondientes, integrando un panorama ámplio para la toma de decisiones de nuestro cliente conformando un análisis historico con un análisis predictivo.
 
 ## Tecnologias
 
@@ -61,6 +62,14 @@ Es nuestro objetivo centrarnos en los resultados y datos concernientes a las Pru
 * ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Datos
+
+Los datos con los que contamos y utilizaremos para el desarrollo del proyecto corresponden a las Pruebas Saber 11° realizadas por el ICFES (Instituto Colombiano para la Evaluación de la Educación).
+Dichas pruebas se centran en la evaluacion del grado de desarrollo de las competencias académicas de los estudiantes que están por finalizar el grado undécimo de la educación media.
+
+Consta de dos sesiones en las que se realizan cinco pruebas: Lectura crítica, Matemáticas, Sociales y ciudadanas, Ciencias naturales e Inglés; y un cuestionario socioeconómico.
+
+Centrandonos en el conjunto de datos en especifico de la prueba, trabajamos sobre el ultimo conjunto recopilado correspondiente a datos del año 2023.
+Nuestra muestra se conforma de 81 columnas/features que pueden segmentarse en datos sobre 
 
 ## Desarrollo
 
