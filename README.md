@@ -73,11 +73,13 @@ Centrandonos en el conjunto de datos en especifico de la prueba, trabajamos sobr
 Nuestra muestra se conforma de 81 columnas/features con 563853 registros que pueden segmentarse en datos sobre el estudiante en general (edad, tipo de documento, etc), situacion socioeconomica de su familia, datos sobre institucion de la que son parte (datos generales, de curricula, etc), desempeño academico en la prueba (calificacion en las distintas áreas examinadas).
 Podemos encontrar la fuente de nuestros datos en el sitio del [ICFES](https://www.icfes.gov.co/data-icfes):
 
-Se pone a disposicion el diccionario de datos de nuestra muestra aqui. 
+Se pone a disposicion el diccionario de datos de nuestra muestra [aqui](https://drive.google.com/drive/folders/1J6nS-ZgLwVOWPARNeG0oe5v4o3P6ZYBx). 
 
 ## Desarrollo
 
 ### ETL
+
+
 
 ### Análisis
 
