@@ -48,6 +48,7 @@ Es nuestro objetivo centrarnos en los resultados y datos concernientes a las Pru
 * ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 * ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
 * ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=numpy)
+* ![Scipy](https://img.shields.io/badge/-Scipy-black?style=flat&logo=scipy)
 * ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=matplotlib)
 * ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat&logo=seaborn)
 * ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat&logo=scikitlearn)
@@ -59,9 +60,19 @@ Es nuestro objetivo centrarnos en los resultados y datos concernientes a las Pru
 * ![colab](https://img.shields.io/badge/-colab-black?style=flat&logo=colabbadge)
 * ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## Datos
+
 ## Desarrollo
 
-## Datos
+### ETL
+
+### Análisis
+
+### Dashboard
+
+### Modelos Predictivos
+
+## Conclusiones
 
 ## Nosotros
 
