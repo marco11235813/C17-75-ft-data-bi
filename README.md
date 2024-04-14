@@ -41,6 +41,7 @@ Entre muchas otros examenes nacionales e internacionales en los que participa Co
 ## Objetivo
 Como objetivo principal, apuntamos a realizar un estudio profundo que permita vislumbrar cuales son los aspectos fundamentales que inciden en el desempeño de los estudiantes a nivel academico,
 tomando como fuente de datos los resultados y datos concernientes a las Pruebas Saber 11°, mediante análisis de los datos, informes y Dashboards concernientes al analisis historico de los datos, se reconoceran patrones, tendencias, y variables relevantes como resultado.
+
 Esto conformará parte de la informacion necesaria para la toma de decisiones por parte de nuestro cliente, a la que se añadirá la construccion de modelos predictivos correspondientes, integrando un panorama ámplio para la toma de decisiones de nuestro cliente conformando un análisis historico con un análisis predictivo.
 
 ## Tecnologias
@@ -69,7 +70,7 @@ Dichas pruebas se centran en la evaluacion del grado de desarrollo de las compet
 Consta de dos sesiones en las que se realizan cinco pruebas: Lectura crítica, Matemáticas, Sociales y ciudadanas, Ciencias naturales e Inglés; y un cuestionario socioeconómico.
 
 Centrandonos en el conjunto de datos en especifico de la prueba, trabajamos sobre el ultimo conjunto recopilado correspondiente a datos del año 2023.
-Nuestra muestra se conforma de 81 columnas/features que pueden segmentarse en datos sobre 
+Nuestra muestra se conforma de 81 columnas/features con 563853 registros que pueden segmentarse en datos sobre el estudiante en general (edad, tipo de documento, etc), situacion socioeconomica de su familia, datos sobre institucion de la que son parte (datos generales, de curricula, etc), desempeño academico en la prueba (calificacion en las distintas áreas examinadas).
 
 ## Desarrollo
 
