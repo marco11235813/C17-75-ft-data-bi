@@ -83,6 +83,10 @@ Se pone a disposición el diccionario de datos de nuestra muestra [aquí](https:
 
 ### Análisis
 
+### Feature Engineer
+
+Los datos disponibilizados para ser consumidos por nuestros modelos predictivos se encuentran [aqui](https://github.com/No-Country/C17-75-ft-data-bi/blob/main/datasets/Icfes2023_feature_engineering.parquet).
+
 ### Dashboard
 
 ### Modelos Predictivos
