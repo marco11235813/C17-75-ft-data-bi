@@ -70,10 +70,10 @@ Dichas pruebas se centran en la evaluacion del grado de desarrollo de las compet
 Consta de dos sesiones en las que se realizan cinco pruebas: Lectura crítica, Matemáticas, Sociales y ciudadanas, Ciencias naturales e Inglés; y un cuestionario socioeconómico.
 
 Centrandonos en el conjunto de datos en especifico de la prueba, trabajamos sobre el ultimo conjunto recopilado correspondiente a datos del año 2023.
-Nuestra muestra se conforma de 81 columnas/features con 563853 registros que pueden segmentarse en datos sobre el estudiante en general (edad, tipo de documento, etc), situacion socioeconomica de su familia, datos sobre institucion de la que son parte (datos generales, de curricula, etc), desempeño academico en la prueba (calificacion en las distintas áreas examinadas).
+Nuestra muestra se conforma de 81 columnas/features con 563853 registros que pueden segmentarse en datos sobre el estudiante en general (edad, tipo de documento, etc), situacion socioeconómica de su familia, datos sobre institución de la que son parte (datos generales, de currícula, etc), desempeño académico en la prueba (calificacion en las distintas áreas examinadas).
 Podemos encontrar la fuente de nuestros datos en el sitio del [ICFES](https://www.icfes.gov.co/data-icfes):
 
-Se pone a disposicion el diccionario de datos de nuestra muestra [aqui](https://drive.google.com/drive/folders/1J6nS-ZgLwVOWPARNeG0oe5v4o3P6ZYBx). 
+Se pone a disposición el diccionario de datos de nuestra muestra [aquí](https://drive.google.com/drive/folders/1J6nS-ZgLwVOWPARNeG0oe5v4o3P6ZYBx). 
 
 ## Desarrollo
 
