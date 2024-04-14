@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/assets/banner%20nocountry.jpg" width="100%" alt="platform">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/banner%20nocountry.jpg" width="100%" alt="platform">
 </p>
 
 <h1 align="center">C17-75-ft-data-bi </h1>
@@ -12,7 +12,7 @@ Utilizando técnicas de análisis de datos y aprendizaje automático, este proye
 ## Introduccion
 
 <p align="center">
-  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/assets/images.png" width="100%" alt="platform">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/images.png" width="100%" alt="platform">
 </p>
 
 El Instituto Colombiano para la Evaluación de la Educación (ICFES) es una entidad especializada en ofrecer servicios de evaluación de la educación en todos sus niveles, y en particular apoya al Ministerio de Educación Nacional en la realización de los exámenes de Estado y en adelantar investigaciones sobre los factores que inciden en la calidad educativa, para ofrecer información pertinente y oportuna para contribuir al mejoramiento de la calidad de la educación.
