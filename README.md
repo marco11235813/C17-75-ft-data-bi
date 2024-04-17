@@ -100,7 +100,7 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
     <td align='center'>
       <div >
         <a href=https://github.com/marco11235813" target="_blank" rel="author">
-          <img width="210" src="https://avatars.githubusercontent.com/u/106486985?v=4"/>
+          <img width="190" src="https://avatars.githubusercontent.com/u/106486985?v=4"/>
         </a>
         <a href="https://github.com/marco11235813" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Marco Caro</br><small></small></h4>
@@ -118,7 +118,7 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
     <td align='center'>
       <div >
         <a href="https://github.com/KATHIUSKA06" target="_blank" rel="author">
-          <img width="210" src="https://avatars.githubusercontent.com/u/116043458?v=4"/>
+          <img width="190" src="https://avatars.githubusercontent.com/u/116043458?v=4"/>
         </a>
         <a href="https://github.com/KATHIUSKA06" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Kathiuska Mangones Ramos</br><small> </small></h4>
@@ -136,7 +136,7 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
     <td align='center'>
       <div >
         <a href="https://github.com/NyxxeN" target="_blank" rel="author">
-          <img width="210" src="https://avatars.githubusercontent.com/u/110195566?s=64&v=4"/>
+          <img width="190" src="https://avatars.githubusercontent.com/u/110195566?s=64&v=4"/>
         </a>
         <a href="https://github.com/NyxxeN" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Pablo Dudiuk</br><small></small></h4>
@@ -154,7 +154,7 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
     <td align='center'>
       <div >
         <a href="https://github.com/JSEB99" target="_blank" rel="author">
-          <img width="210" src="https://avatars.githubusercontent.com/u/127052917?v=4"/>
+          <img width="190" src="https://avatars.githubusercontent.com/u/127052917?v=4"/>
         </a>
         <a href="https://github.com/JSEB99" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Sebastian Mora</br><small></small></h4>
