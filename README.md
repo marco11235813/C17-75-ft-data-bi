@@ -106,12 +106,12 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
           <h4 style="margin-top: 1rem;">Marco Caro</br><small></small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
-        <a href="https://github.com/marco11235813" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
-        </a>
-        <a href="https://www.linkedin.com/in/marco-antonio-caro-22459711b/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+          <a href="https://github.com/marco11235813" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          </a>
+          <a href="https://www.linkedin.com/in/marco-antonio-caro-22459711b/" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
         </div>
       </div>
     </td>
@@ -124,21 +124,16 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
           <h4 style="margin-top: 1rem;">Kathiuska Mangones Ramos</br><small> </small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
-        <a href="https://github.com/KATHIUSKA06" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
-        </a>
-        <a href="https://www.linkedin.com/in/kathiuska-mangones-ramos-1b494913b/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+          <a href="https://github.com/KATHIUSKA06" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          </a>
+          <a href="https://www.linkedin.com/in/kathiuska-mangones-ramos-1b494913b/" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
         </div>
       </div>
     </td>
-  </tr>
-  </table>
-  <table align='center'>
-<tr>
-
-<td align='center'>
+    <td align='center'>
       <div >
         <a href="https://github.com/NyxxeN" target="_blank" rel="author">
           <img width="210" src="https://avatars.githubusercontent.com/u/110195566?s=64&v=4"/>
@@ -147,16 +142,16 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
           <h4 style="margin-top: 1rem;">Pablo Dudiuk</br><small></small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
-        <a href="https://github.com/NyxxeN" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
-        </a>
-        <a href="https://www.linkedin.com/in/pablo-dudiuk10/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+          <a href="https://github.com/NyxxeN" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          </a>
+          <a href="https://www.linkedin.com/in/pablo-dudiuk10/" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
         </div>
       </div>
-
-  <td align='center'>
+    </td>
+    <td align='center'>
       <div >
         <a href="https://github.com/JSEB99" target="_blank" rel="author">
           <img width="210" src="https://avatars.githubusercontent.com/u/127052917?v=4"/>
@@ -165,15 +160,18 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
           <h4 style="margin-top: 1rem;">Sebastian Mora</br><small></small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
-        <a href="https://github.com/JSEB99" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
-        </a>
-        <a href="https://www.linkedin.com/in/jsebastianm/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+          <a href="https://github.com/JSEB99" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          </a>
+          <a href="https://www.linkedin.com/in/jsebastianm/" target="_blank">
+            <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
         </div>
       </div>
     </td>
+  </tr>
+</table>
+
 
 
 
