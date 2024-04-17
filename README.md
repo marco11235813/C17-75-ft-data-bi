@@ -81,7 +81,7 @@ Se pone a disposición el diccionario de datos de nuestra muestra [aquí](https:
 
 
 
-### Análisis
+### EDA
 
 ### Feature Engineer
 
