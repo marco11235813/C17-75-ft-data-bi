@@ -89,6 +89,7 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
 
 ### Dashboard
 
+Disponibilizamos nuestro dashboard de manera interactiva [aqui](https://project.novypro.com/lvxsHr)
 ### Modelos Predictivos
 
 ## Conclusiones
