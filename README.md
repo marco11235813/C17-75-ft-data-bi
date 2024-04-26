@@ -62,6 +62,11 @@ Esto conformará parte de la informacion necesaria para la toma de decisiones po
 * ![colab](https://img.shields.io/badge/-colab-black?style=flat&logo=colabbadge)
 * ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<p align="center">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/stack%20tecnologico.png" width="100%" alt="platform">
+</p>
+
+
 
 ## Datos
 
