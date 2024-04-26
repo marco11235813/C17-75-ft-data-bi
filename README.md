@@ -147,7 +147,7 @@ En cuanto al análisis con base de datos reducida, se utilizó PCA (Análisis de
 
 En resumen, el análisis de clustering proporcionó información valiosa sobre cómo se agrupan los estudiantes en función de su desempeño académico y su nivel socioeconómico. Esta comprensión puede ser fundamental para identificar patrones y tendencias que podrían informar políticas y programas educativos dirigidos a mejorar los resultados estudiantiles y promover la equidad en la educación.
 
-Los archivos con el modelo los podemos encontar [aquí](https://drive.google.com/drive/folders/1PXQqJWX-XpCV3II89y_s0Us7OEE75O-Y)
+Los archivos con el modelo los podemos encontar [aquí](https://drive.google.com/drive/folders/1PXQqJWX-XpCV3II89y_s0Us7OEE75O-Y).
 
 ## Conclusiones
 
