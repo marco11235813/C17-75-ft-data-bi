@@ -62,6 +62,7 @@ Esto conformará parte de la informacion necesaria para la toma de decisiones po
 * ![colab](https://img.shields.io/badge/-colab-black?style=flat&logo=colabbadge)
 * ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
 ## Datos
 
 Los datos con los que contamos y utilizaremos para el desarrollo del proyecto corresponden a las Pruebas Saber 11° realizadas por el ICFES (Instituto Colombiano para la Evaluación de la Educación).
@@ -90,6 +91,20 @@ El Informe ETL proporciona un análisis detallado de la calidad y las caracterí
 
 
 ### EDA
+
+El proceso de Preparación de Datos comenzó con una exhaustiva limpieza y preprocesamiento para garantizar la calidad y coherencia de los datos recopilados. Posteriormente, se llevó a cabo un Análisis Exploratorio de Datos, utilizando técnicas estadísticas y herramientas de visualización para comprender la estructura y distribución de los datos, identificando patrones, tendencias y relaciones entre las variables.
+
+En el Análisis Descriptivo, se examinaron diversas variables como el tipo de institución educativa, la ubicación geográfica, el nivel educativo de los padres y la jornada escolar, entre otros, para comprender su impacto en el rendimiento académico.
+
+Los hallazgos revelaron varios puntos significativos:
+
+Tamaño de la Población: La muestra consistió en 405,869 estudiantes, proporcionando una base sólida para sacar conclusiones significativas sobre el rendimiento académico en las pruebas ICFES.
+Promedio de Puntaje: El puntaje promedio obtenido fue de 258.8 puntos sobre 500, lo que proporciona una medida general del desempeño académico de la población estudiantil evaluada.
+Impacto del Nivel Socioeconómico: Se observó una correlación entre el nivel económico y el rendimiento académico, donde los estudiantes con un nivel económico más alto tienden a obtener puntajes más altos, subrayando la importancia de abordar las disparidades socioeconómicas en la educación.
+Distribución Geográfica: Aunque la población rural representaba solo el 13.88%, los puntajes promedio fueron del 48.03%, mientras que en áreas urbanas, constituyendo el 86.12%, los puntajes promedio fueron del 51.97%.
+Tipo de Institución Educativa: Las instituciones privadas registraron un puntaje promedio superior del 53.32%, a pesar de representar solo el 22.46% de la población.
+Género: Aunque la población masculina superaba ligeramente a la femenina, los puntajes promedio mostraron una diferencia mínima, sugiriendo una equidad en el rendimiento académico entre géneros.
+Influencia del Nivel Educativo de los Padres: Se observó una correlación positiva entre el nivel educativo de los padres y el desempeño académico de sus hijos, destacando la influencia positiva de la educación parental en el rendimiento estudiantil.
 
 ### Feature Engineer
 
