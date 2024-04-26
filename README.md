@@ -132,9 +132,15 @@ Este análisis se llevó a cabo en un subconjunto de características relevantes
 Los resultados revelaron la existencia de tres clusters distintos, cada uno con características promedio diferentes de puntaje global y nivel socioeconómico individual. Por ejemplo, el Cluster 1 mostró puntajes globales y niveles socioeconómicos más altos en comparación con los otros clusters. Esto proporciona una comprensión más profunda de la distribución de los datos y de cómo se relacionan las variables entre sí.
 
 <p align="center">
-  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/stack%20tecnologico.png" width="100%" alt="platform">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/clusters.png" width="80%" alt="platform">
 </p>
 
+
+En cuanto al análisis con base de datos reducida, se utilizó PCA (Análisis de Componentes Principales) para reducir la dimensionalidad de los datos a dos componentes principales. Sin embargo, la visualización de los clusters en un espacio bidimensional mostró que los centroides estaban juntos, lo que sugiere una posible superposición de los clusters. Aunque esta técnica permitió una comprensión más clara de la estructura de los clusters, también destacó la complejidad de los datos y la dificultad para separarlos completamente en un espacio bidimensional.
+
+
+
+En resumen, el análisis de clustering proporcionó información valiosa sobre cómo se agrupan los estudiantes en función de su desempeño académico y su nivel socioeconómico. Esta comprensión puede ser fundamental para identificar patrones y tendencias que podrían informar políticas y programas educativos dirigidos a mejorar los resultados estudiantiles y promover la equidad en la educación.
 
 ## Conclusiones
 
