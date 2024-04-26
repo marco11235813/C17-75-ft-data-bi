@@ -62,6 +62,11 @@ Esto conformará parte de la informacion necesaria para la toma de decisiones po
 * ![colab](https://img.shields.io/badge/-colab-black?style=flat&logo=colabbadge)
 * ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## Stack Tecnológico
+El stack tecnológico empleado está, en su mayoría, dentro del universo de paquetes y librerías de Python, el cual ofrece toda la gama de herramientas para desarrollar el ciclo completo de nuestro proyecto. Facilita la ingesta y transformación de los datos, de forma que se podrá trabajar desde el repositorio o almacén de datos que aloja los datos sin procesar, pasando por los entornos para escribir y ejecutar código hasta la generación de la data ya transformada e implementación de machine learning e inteligencia de negocios.
+
+En la imágen se verán las herramientas, programas, lenguajes de programación y librerías contemplados para llevar a cabo cada una de las etapas de la ejecución del proyecto.
+
 <p align="center">
   <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/stack%20tecnologico.png" width="100%" alt="platform">
 </p>
