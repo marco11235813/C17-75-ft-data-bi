@@ -78,6 +78,8 @@ En la imágen se verán las herramientas, programas, lenguajes de programación 
 Los datos con los que contamos y utilizaremos para el desarrollo del proyecto corresponden a las Pruebas Saber 11° realizadas por el ICFES (Instituto Colombiano para la Evaluación de la Educación).
 Dichas pruebas se centran en la evaluacion del grado de desarrollo de las competencias académicas de los estudiantes que están por finalizar el grado undécimo de la educación media.
 Los datos originales los podemos encontrar [aqui](https://drive.google.com/drive/folders/1J6nS-ZgLwVOWPARNeG0oe5v4o3P6ZYBx).
+
+
 Consta de dos sesiones en las que se realizan cinco pruebas: Lectura crítica, Matemáticas, Sociales y ciudadanas, Ciencias naturales e Inglés; y un cuestionario socioeconómico.
 
 Centrandonos en el conjunto de datos en especifico de la prueba, trabajamos sobre el ultimo conjunto recopilado correspondiente a datos del año 2023.
@@ -144,6 +146,8 @@ En cuanto al análisis con base de datos reducida, se utilizó PCA (Análisis de
 
 
 En resumen, el análisis de clustering proporcionó información valiosa sobre cómo se agrupan los estudiantes en función de su desempeño académico y su nivel socioeconómico. Esta comprensión puede ser fundamental para identificar patrones y tendencias que podrían informar políticas y programas educativos dirigidos a mejorar los resultados estudiantiles y promover la equidad en la educación.
+
+Los archivos con el modelo los podemos encontar [aquí](https://drive.google.com/drive/folders/1PXQqJWX-XpCV3II89y_s0Us7OEE75O-Y)
 
 ## Conclusiones
 
