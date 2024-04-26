@@ -125,7 +125,20 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
 Disponibilizamos nuestro dashboard de manera interactiva [aqui](https://project.novypro.com/lvxsHr)
 ### Modelos Predictivos
 
+El proceso de preparación de datos comenzó con la reducción de la granularidad y la limpieza de características poco relevantes en el conjunto de datos, lo que implicó eliminar columnas de puntajes por materia y convertir las columnas de percentiles en cuartiles. 
+Una vez completado el proceso de preparación de datos, se procedió a realizar un análisis de clustering utilizando el algoritmo K-Means. 
+Este análisis se llevó a cabo en un subconjunto de características relevantes, como el período, el estrato de la vivienda, el número de cuartos en el hogar, el puntaje global y el nivel socioeconómico individual del estudiante. Los datos fueron normalizados para garantizar que todas las características tuvieran la misma escala, y se dividió el conjunto de datos en subconjuntos más pequeños para facilitar el proceso de clustering.
+
+Los resultados revelaron la existencia de tres clusters distintos, cada uno con características promedio diferentes de puntaje global y nivel socioeconómico individual. Por ejemplo, el Cluster 1 mostró puntajes globales y niveles socioeconómicos más altos en comparación con los otros clusters. Esto proporciona una comprensión más profunda de la distribución de los datos y de cómo se relacionan las variables entre sí.
+
+<p align="center">
+  <img src="https://github.com/No-Country/C17-75-ft-data-bi/blob/main/assets/stack%20tecnologico.png" width="100%" alt="platform">
+</p>
+
+
 ## Conclusiones
+
+El análisis detallado del rendimiento académico en las pruebas ICFES 2023 ha revelado una serie de factores que influyen significativamente en los resultados estudiantiles. La correlación encontrada entre el nivel socioeconómico, el tipo de institución educativa, el género y el nivel educativo de los padres y el desempeño académico destaca la complejidad de los determinantes del éxito estudiantil. Estos resultados enfatizan la necesidad urgente de abordar las disparidades educativas y socioeconómicas para garantizar una educación equitativa y mejorar los logros estudiantiles en Colombia. Además, resaltan la importancia de implementar políticas y programas efectivos que amplíen el acceso a recursos educativos de calidad y brinden apoyo integral para el desarrollo académico de todos los estudiantes, sin importar su contexto socioeconómico o género. Este enfoque integral es fundamental para promover una sociedad más justa y equitativa, donde todos los individuos tengan igualdad de oportunidades para alcanzar su máximo potencial académico.
 
 ## Nosotros
 
