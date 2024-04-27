@@ -124,6 +124,18 @@ Los datos disponibilizados para ser consumidos por nuestros modelos predictivos 
 
 ### Dashboard
 
+<p align="center">
+  <img src="assets/img_dash1.png" alt="platform">
+</p>
+
+<p align="center">
+  <img src="assets/img_dash2.png" alt="platform">
+</p>
+
+<p align="center">
+  <img src="assets/img_dash3.png" alt="platform">
+</p>
+
 Disponibilizamos nuestro dashboard de manera interactiva [aqui](https://project.novypro.com/lvxsHr)
 ### Modelos Predictivos
 
@@ -157,7 +169,7 @@ El análisis detallado del rendimiento académico en las pruebas ICFES 2023 ha r
 
 Ponemos a disposición la documentación del desarrollo integral del proyecto, desde un enfoque de informe de presentacion empresarial, para el entendimiento del enfoque principal,
 el desarrollo, la metodología y las diferentes etapas recorridas en el análisis de los datos y la construcción de los insights.
-Podemos ver la documentacion completa de nuestro proyecto [aquí](https://github.com/No-Country/C17-75-ft-data-bi/blob/main/docs/DOCUMENTACION%20PROYECTO%20(2).docx)
+Podemos ver la documentacion completa de nuestro proyecto [aquí](https://github.com/No-Country/C17-75-ft-data-bi/blob/main/docs/DOCUMENTACION%20PROYECTO%20.docx)
 
 ## Nosotros
 
