@@ -153,6 +153,12 @@ Los archivos con el modelo los podemos encontar [aquí](https://drive.google.com
 
 El análisis detallado del rendimiento académico en las pruebas ICFES 2023 ha revelado una serie de factores que influyen significativamente en los resultados estudiantiles. La correlación encontrada entre el nivel socioeconómico, el tipo de institución educativa, el género y el nivel educativo de los padres y el desempeño académico destaca la complejidad de los determinantes del éxito estudiantil. Estos resultados enfatizan la necesidad urgente de abordar las disparidades educativas y socioeconómicas para garantizar una educación equitativa y mejorar los logros estudiantiles en Colombia. Además, resaltan la importancia de implementar políticas y programas efectivos que amplíen el acceso a recursos educativos de calidad y brinden apoyo integral para el desarrollo académico de todos los estudiantes, sin importar su contexto socioeconómico o género. Este enfoque integral es fundamental para promover una sociedad más justa y equitativa, donde todos los individuos tengan igualdad de oportunidades para alcanzar su máximo potencial académico.
 
+## Documentacion del Proyecto
+
+Ponemos a disposicion la documentacion del desarrollo integral del proyecto, desde un enfoque de informe de presentacion empresarial, para el entendimiento del enfoque principal,
+el desarrollo la metodologia y las diferentes etapas recorridas en el analisis de los datos y la construccion de los insights.
+Podemos ver la documentacion completa de nuestro poryecto (aqui)[https://github.com/No-Country/C17-75-ft-data-bi/blob/main/docs/DOCUMENTACION%20PROYECTO%20(2).docx]
+
 ## Nosotros
 
 <table align='center'>
