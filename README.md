@@ -116,7 +116,7 @@ Los hallazgos revelaron varios puntos significativos:
 * Distribución Geográfica: Aunque la población rural representaba solo el 13.88%, los puntajes promedio fueron del 48.03%, mientras que en áreas urbanas, constituyendo el 86.12%, los puntajes promedio fueron del 51.97%.
 * Tipo de Institución Educativa: Las instituciones privadas registraron un puntaje promedio superior del 53.32%, a pesar de representar solo el 22.46% de la población.
 * Género: Aunque la población masculina superaba ligeramente a la femenina, los puntajes promedio mostraron una diferencia mínima, sugiriendo una equidad en el rendimiento académico entre géneros.
-* Influencia del Nivel Educativo de los Padres: Se observó una correlación positiva entre el nivel educativo de los padres y el desempeño académico de sus hijos, destacando la influencia positiva de la educación parental en el rendimiento estudiantil.
+* Influencia del Nivel Educativo de los Padres: Se observó una correlación directa entre el nivel educativo de los padres y el desempeño académico de sus hijos, destacando la influencia de la educación parental en el rendimiento estudiantil.
 
 ### Feature Engineer
 
