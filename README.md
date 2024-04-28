@@ -86,7 +86,7 @@ Centrandonos en el conjunto de datos en especifico de la prueba, trabajamos sobr
 Nuestra muestra se conforma de 81 columnas/features con 563853 registros que pueden segmentarse en datos sobre el estudiante en general (edad, tipo de documento, etc), situacion socioeconómica de su familia, datos sobre institución de la que son parte (datos generales, de currícula, etc), desempeño académico en la prueba (calificacion en las distintas áreas examinadas).
 Podemos encontrar la fuente de nuestros datos en el sitio del [ICFES](https://www.icfes.gov.co/data-icfes):
 
-Se pone a disposición el diccionario de datos de nuestra muestra [aquí](https://drive.google.com/drive/folders/1J6nS-ZgLwVOWPARNeG0oe5v4o3P6ZYBx). 
+Se pone a disposición el diccionario de datos de nuestra muestra [aquí](https://github.com/No-Country/C17-75-ft-data-bi/blob/main/docs/Diccionario%20Saber%2011%202019-1%20a%202023-2.pdf). 
 
 ## Desarrollo
 
@@ -101,6 +101,7 @@ En la fase de Transformación de Datos (ETL), se llevaron a cabo una serie de pr
 
 El Informe ETL proporciona un análisis detallado de la calidad y las características de los datos originales, y ofrece funciones específicas para examinar y explorar los datos en profundidad. Estas funciones incluyen la visualización de valores nulos, análisis de frecuencia de palabras, boxplots numéricos y más, lo que facilita la identificación de patrones, tendencias y relaciones significativas en los datos.
 
+Ponemos a disposición el nuevo diccionario de datos luego del proceso de ETL [aquí](https://drive.google.com/drive/folders/1J6nS-ZgLwVOWPARNeG0oe5v4o3P6ZYBx)
 
 ### EDA
 
