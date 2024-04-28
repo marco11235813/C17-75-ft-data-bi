@@ -118,23 +118,44 @@ Los hallazgos revelaron varios puntos significativos:
 * Género: Aunque la población masculina superaba ligeramente a la femenina, los puntajes promedio mostraron una diferencia mínima, sugiriendo una equidad en el rendimiento académico entre géneros.
 * Influencia del Nivel Educativo de los Padres: Se observó una correlación directa entre el nivel educativo de los padres y el desempeño académico de sus hijos, destacando la influencia de la educación parental en el rendimiento estudiantil.
 
+<p align="center">
+  <img src="assets/img_eda3.png" alt="platform">
+</p>
+
+<p align="center">
+  <img src="assets/img_eda1.png" alt="platform">
+</p>
+
+<p align="center">
+  <img src="assets/img_eda1.png" alt="platform">
+</p>
+
 ### Feature Engineer
 
 Los datos disponibilizados para ser consumidos por nuestros modelos predictivos se encuentran [aqui](https://github.com/No-Country/C17-75-ft-data-bi/blob/main/datasets/Icfes2023_feature_engineering.parquet).
 
 ### Dashboard
 
-<p align="center">
-  <img src="assets/img_dash1.png" alt="platform">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1; padding: 5px;">
+        <p align="center">
+            <img src="assets/img_dash1.png" alt="platform" style="max-width: 100%;">
+        </p>
+    </div>
+    <div style="flex: 1; padding: 5px;">
+        <p align="center">
+            <img src="assets/img_dash2.png" alt="platform" style="max-width: 100%;">
+        </p>
+    </div>
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1; padding: 5px;">
+        <p align="center">
+            <img src="assets/img_dash3.png" alt="platform" style="max-width: 100%;">
+        </p>
+    </div>
+</div>
 
-<p align="center">
-  <img src="assets/img_dash2.png" alt="platform">
-</p>
-
-<p align="center">
-  <img src="assets/img_dash3.png" alt="platform">
-</p>
 
 Disponibilizamos nuestro dashboard de manera interactiva [aqui](https://project.novypro.com/lvxsHr)
 ### Modelos Predictivos
