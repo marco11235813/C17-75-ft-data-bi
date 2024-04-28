@@ -118,25 +118,13 @@ Los hallazgos revelaron varios puntos significativos:
 * Género: Aunque la población masculina superaba ligeramente a la femenina, los puntajes promedio mostraron una diferencia mínima, sugiriendo una equidad en el rendimiento académico entre géneros.
 * Influencia del Nivel Educativo de los Padres: Se observó una correlación directa entre el nivel educativo de los padres y el desempeño académico de sus hijos, destacando la influencia de la educación parental en el rendimiento estudiantil.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; padding: 5px;">
-        <p align="center">
-            <img src="assets/img_eda3.png" alt="platform" style="max-width: 100%;">
-        </p>
-    </div>
-    <div style="flex: 1; padding: 5px;">
-        <p align="center">
-            <img src="assets/img_eda1.png" alt="platform" style="max-width: 100%;">
-        </p>
-    </div>
-</div>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1; padding: 5px;">
-        <p align="center">
-            <img src="assets/img_eda2.png" alt="platform" style="max-width: 100%;">
-        </p>
-    </div>
-</div>
+| Columna 1         | Columna 2         |
+|-------------------|-------------------|
+| ![Imagen 1](assets/img_eda3.png) | ![Imagen 2](assets/img_eda1.png) |
+
+| Columna única     |
+|-------------------|
+| ![Imagen 3](assets/img_eda2.png) |
 
 
 ### Feature Engineer
