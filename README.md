@@ -182,7 +182,7 @@ El análisis detallado del rendimiento académico en las pruebas ICFES 2023 ha r
 
 ## Documentacion del Proyecto
 
-Ponemos a disposición la documentación del desarrollo integral del proyecto, desde un enfoque de informe de presentacion empresarial, para el entendimiento del enfoque principal,
+Ponemos a disposición la documentación del desarrollo integral del proyecto, como informe de presentacion empresarial, para el entendimiento del enfoque principal,
 el desarrollo, la metodología y las diferentes etapas recorridas en el análisis de los datos y la construcción de los insights.
 Podemos ver la documentacion completa de nuestro proyecto [aquí](https://github.com/No-Country/C17-75-ft-data-bi/blob/main/docs/DOCUMENTACION%20PROYECTO.docx)
 
