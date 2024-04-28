@@ -122,12 +122,12 @@ Los hallazgos revelaron varios puntos significativos:
 |                       |                       |
 |-----------------------|-----------------------|
 | ![Imagen 1](assets/img_eda3.png) | ![Imagen 2](assets/img_eda1.png) |
-| Educacion de los padres de los examinados (en Cantidad de frecuencias) | Distribucion de los valores de Puntuacion final de los examinados en relacion al Nivel de Educacion de sus padres |
+| Educacion de los padres de los examinados (en Cantidad de frecuencias) | Distribucion de los valores de Puntuacion Total de los examinados en relacion al Nivel de Educacion de sus padres |
 
 |                       |
 |-----------------------|
 | ![Imagen 3](assets/img_eda2.png) |
-| Distribucion de los valores de Puntuacion final de los examinados en relacion al Nivel de Educacion de sus padres señalando el tipo de Institucion a la que el alumno asiste |
+| Distribucion de los valores de Puntuacion Total de los examinados en relacion al Nivel de Educacion de sus padres señalando el tipo de Institucion a la que el alumno asiste |
 
 
 
